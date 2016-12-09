@@ -4,7 +4,7 @@ eat meat @ stay elite
 
 ## live demo
 
-(github pages url)
+[http://meattrip.party/](http://meattrip.party/)
 
 ## used templates
 
